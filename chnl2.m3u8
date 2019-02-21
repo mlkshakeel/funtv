@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=427016,RESOLUTION=426x240,CODECS="avc1.42e00a,mp4a.40.2"
+https://raw.githubusercontent.com/mlkshakeel/funtv/master/chnl.m3u8
