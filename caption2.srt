@@ -1,0 +1,9 @@
+﻿1
+00:00:07,114 --> 00:00:11,834
+
+Hello, and welcome to our presentation.
+
+2
+00:00:012,108 --> 00:00:16,357
+
+In this video, we'll be showing you how to create a text file.
